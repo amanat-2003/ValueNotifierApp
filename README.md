@@ -1,4 +1,4 @@
-# learn_snippets
+# ValueNotifierApp
 
 A new Flutter project.
 
